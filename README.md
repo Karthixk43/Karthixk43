@@ -47,7 +47,7 @@
 <!-- Snake Animation -->
 <div align="center">
   
-![snake animation](https://github.com/Karthixk43/Karthixk43/blob/main/github-snake-dark.svg)
+![snake animation](https://github.com/Karthixk43/Karthixk43/blob/output/github-snake-dark.svg)
 
 </div>
 
